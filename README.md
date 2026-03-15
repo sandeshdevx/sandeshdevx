@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sandesh 👋
 
-<!--
-**sandeshdevx/sandeshdevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
+🤖 Interested in AI, Automation, and Building Useful Products
+🚀 Currently building AI chatbots and experimenting with RAG systems
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Java
+* React
+* AI / Machine Learning
+* REST APIs
+
+## Projects
+
+🤖 AI Chatbot for Businesses
+📊 Sentiment Analysis with DistilBERT
+🌐 React Web Applications
+
+## Goals
+
+* Build useful AI tools
+* Contribute to open source
+* Launch my own startup
+
+## Connect with me
+
+LinkedIn: (your link)
+Portfolio: (later)
