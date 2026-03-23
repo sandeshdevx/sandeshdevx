@@ -22,7 +22,3 @@
 
 * Build useful AI tools
 * Contribute to open source
-* Launch my own startup
-
-## Connect with me
-
