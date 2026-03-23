@@ -26,5 +26,3 @@
 
 ## Connect with me
 
-LinkedIn: (your link)
-Portfolio: (later)
