@@ -13,9 +13,6 @@
 <a href="https://5776e387.portfolio-8w8.pages.dev/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/fnSAVfQWqD/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
 
 </div>
 
